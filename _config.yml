@@ -20,3 +20,7 @@ markdown: kramdown
 
 # categories
 categories: [jekyll, Spring, Python, Algorithms, Books]
+
+# encoding
+encoding: UTF-8
+
