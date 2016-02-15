@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Spring 공부 01 DI"
+date:   2016-02-16 02:58:40 +0900
 categories: Spring
 ---
 
@@ -36,8 +37,3 @@ Martin Fowler라는 분이 리팩토링에 대해 엄청난 글을 작성하신�
 부품을 생성하고 조립하는 라이브러리 집합체 라고는 하는데 정확히 무슨 말인지 -_-
 
 
-
-
-참고 자료 : 
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2IwntV2WT8PiXL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/baejjae93/dependency-injection-36867592" title="[JWPA-1]의존성 주입(Dependency injection)" target="_blank">[JWPA-1]의존성 주입(Dependency injection)</a> </strong> from <strong><a href="//www.slideshare.net/baejjae93" target="_blank">YoungHo Cho</a></strong> </div>
