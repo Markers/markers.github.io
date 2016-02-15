@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 구름곰(markers) 연구실
+email: wizard870@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  이곳은 저의 삽질,공부,하소연을 위주로 담을 블로그입니다. 
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: wizard530
+github_username:  markers
+
+# Build settings
+markdown: kramdown
+
+# categories
+categories: [jekyll, Spring, Python, Algorithms, Books]
